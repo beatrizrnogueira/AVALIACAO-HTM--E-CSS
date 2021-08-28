@@ -1,0 +1,98 @@
+#foto-perfil{
+
+    width: 170px;
+    border-radius: 50%;
+    display: block;
+    margin-left: 2pc;
+    height: 170px;
+
+  
+}
+ul{
+    line-height: 25px;
+}
+p{
+    line-height: 25px;
+}
+
+header{
+
+display: flex;
+
+}
+
+
+#lado{
+    
+  
+    background-color: #19304f;
+    height: 1600px;
+    width: 600px;
+    position: absolute;
+    right: 0px;
+    top:0;
+   
+   
+
+}
+
+#Contato{
+    
+    font-family: Arial, Helvetica, sans-serif;
+    color: rgb(255, 255, 255);
+    margin-left: 50px;
+    margin-top: 150px;
+}
+#icone{
+    list-style: none;
+    display:flex;
+    padding: 0px;
+   
+}
+
+#conhecimento{
+    margin-top: 120px;
+}
+
+
+#header{
+    margin: 2pc;
+    width: 700px;
+    font-family: Arial, Helvetica, sans-serif;
+}
+
+#section-1{
+    
+    margin-left: 4pc;
+    width: 700px;
+    font-family: Arial, Helvetica, sans-serif;
+}
+#section-2{
+    margin: 4pc;
+    width: 700px;
+
+    font-family: Arial, Helvetica, sans-serif;
+}
+
+#section-3{
+    margin: 4pc;
+    width: 700px;
+    font-family: Arial, Helvetica, sans-serif;
+}
+
+#section-3{
+    margin: 4pc;
+    width: 700px;
+    font-family: Arial, Helvetica, sans-serif;
+}
+
+#section-4{
+    margin: 4pc;
+    width: 700px;
+    font-family: Arial, Helvetica, sans-serif;
+}
+
+footer{
+    margin-left: 4pc;
+    font-family: Arial, Helvetica, sans-serif;
+}
